@@ -10,5 +10,5 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() 
 
 
-## Contacto: 
+## Contact: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raul_Pascual-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/raulpascualdelacalle/)
