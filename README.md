@@ -9,5 +9,8 @@
 [![Laravel](https://img.shields.io/badge/Laravel-4479A1?style=for-the-badge&logo=laravel&logoColor=red&labelColor=101010)]() [![PHP](https://img.shields.io/badge/PHP-007396?style=for-the-badge&logo=php&logoColor=blue&labelColor=DBDBDB)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() 
 
+## Articles:
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raulpascual)
+
 ## Contact: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raul_Pascual-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/raulpascualdelacalle/)
